@@ -1,0 +1,18 @@
+div { 
+ padding: 15px;
+ width: 30px;
+ height: 30px;     
+}
+
+.facebook {
+    background: blue;
+}
+.instagram{
+    background: pink;
+}
+.twitter {
+    background: lightskyblue; 
+}
+.youtube {
+    background: red;  
+}

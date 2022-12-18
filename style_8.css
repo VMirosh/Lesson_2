@@ -1,0 +1,20 @@
+p{
+    padding: 15px;
+   
+}
+#green {
+    background: lightgreen; 
+    border-left: 5px solid green;
+}
+#blue {
+    background: lightskyblue;
+    border-left: 5px solid blue;
+}
+#gold{
+    background: gold;
+    border-left: 5px solid yellow;
+}
+#pink{
+    background: pink;
+    border-left: 5px solid red;
+}
